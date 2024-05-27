@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rauni\\AMST4_Carousel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\controllers\\tamanhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:controllers\\tamanhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\tamanho\\listtamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\tamanho\\listtamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\models\\tamanho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:models\\tamanho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\tamanho\\edittamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\tamanho\\edittamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\tamanho\\addtamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\tamanho\\addtamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\tamanho\\deletetamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\tamanho\\deletetamanho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\product\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\product\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\category\\detailscategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\category\\detailscategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\amst4_carousel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:amst4_carousel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\migrations\\20240517002210_relacionamento categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:migrations\\20240517002210_relacionamento categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\migrations\\20240517000420_add category table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:migrations\\20240517000420_add category table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|d:\\rauni\\amst4_carousel\\migrations\\20240527175043_tamanho-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B46FB4-7010-4DF4-8427-9ED24F7420BE}|AMST4_Carousel.csproj|solutionrelative:migrations\\20240527175043_tamanho-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:07:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditTamanho.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\EditTamanho.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tamanho\\EditTamanho.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\EditTamanho.cshtml",
+              "RelativeToolTip": "Views\\Tamanho\\EditTamanho.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:44:06.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTamanho.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\ListTamanho.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tamanho\\ListTamanho.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\ListTamanho.cshtml",
+              "RelativeToolTip": "Views\\Tamanho\\ListTamanho.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:41:58.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TamanhoController.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Controllers\\TamanhoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TamanhoController.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Controllers\\TamanhoController.cs",
+              "RelativeToolTip": "Controllers\\TamanhoController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwHMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:40:41.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:12:53.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:44:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tamanho.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Models\\Tamanho.cs",
+              "RelativeDocumentMoniker": "Models\\Tamanho.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Models\\Tamanho.cs",
+              "RelativeToolTip": "Models\\Tamanho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:38:20.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTamanho.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\AddTamanho.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tamanho\\AddTamanho.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\AddTamanho.cshtml",
+              "RelativeToolTip": "Views\\Tamanho\\AddTamanho.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:42:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240527175043_tamanho-table.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240527175043_tamanho-table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527175043_tamanho-table.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240527175043_tamanho-table.cs",
+              "RelativeToolTip": "Migrations\\20240527175043_tamanho-table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:50:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteTamanho.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\DeleteTamanho.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tamanho\\DeleteTamanho.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Tamanho\\DeleteTamanho.cshtml",
+              "RelativeToolTip": "Views\\Tamanho\\DeleteTamanho.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:43:27.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:24:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\DeleteProduct.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:23:58.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:23:35.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:08:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Carousel.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Carousel.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Carousel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T15:31:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\EditProduct.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\EditProduct.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:24:44.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailsProduct.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\DetailsProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\DetailsProduct.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\DetailsProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\DetailsProduct.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:24:53.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:25:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240517002210_Relacionamento CategoryProduct.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240517002210_Relacionamento CategoryProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517002210_Relacionamento CategoryProduct.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240517002210_Relacionamento CategoryProduct.cs",
+              "RelativeToolTip": "Migrations\\20240517002210_Relacionamento CategoryProduct.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:22:10.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:16:41.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:09:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetailsCategory.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\DetailsCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\DetailsCategory.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\DetailsCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\DetailsCategory.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:09:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteCategory.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\DeleteCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\DeleteCategory.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\DeleteCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\DeleteCategory.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:09:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:09:01.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:07:21.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240517000420_Add Category Table.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240517000420_Add Category Table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240517000420_Add Category Table.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Migrations\\20240517000420_Add Category Table.cs",
+              "RelativeToolTip": "Migrations\\20240517000420_Add Category Table.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:04:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:59:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\Context\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDataContext.cs",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\Context\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:54:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AMST4_Carousel.csproj",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\AMST4_Carousel.csproj",
+              "RelativeDocumentMoniker": "AMST4_Carousel.csproj",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\AMST4_Carousel.csproj",
+              "RelativeToolTip": "AMST4_Carousel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T23:54:06.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rauni\\AMST4_Carousel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Rauni\\AMST4_Carousel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T23:49:33.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
